@@ -34,16 +34,21 @@ font-style:italic;
 .title {
 
 font-family: 'Roboto', sans-serif;
-font-size: 145px;
+font-size: 135px;
 display: table-cell;
+line-height: 1.3;
 color: black;
 text-align:center;
 padding-top: 100px;
 margin-bottom: 20px; 
 
 }
+
+
 .info{
  font-size:30px;
+ font-family: 'Sedgwick Ave', cursive;
+ font-family: 'Lobster', cursive;
  text-align:center;
  padding-top:100px;
  padding-left: 40px;
